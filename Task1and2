@@ -24,7 +24,7 @@ namespace WindowsFormsApplication4
 
         private void Compute_Click(object sender, EventArgs e)
         {
-
+bebica
         }
     }
 }
